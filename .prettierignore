@@ -1,0 +1,8 @@
+/dist/*
+/html/*
+.local
+/unpackage/*
+/node_modules/**
+/public/*
+**/*.svg
+**/*.sh
