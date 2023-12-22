@@ -2,7 +2,7 @@
  * @Description: 
  * @Author: 415156969@qq.com
  * @Date: 2023-12-22 12:43:07
- * @LastEditTime: 2023-12-22 12:46:40
+ * @LastEditTime: 2023-12-22 17:04:51
 -->
 <template>
   <view class="content">
@@ -14,7 +14,6 @@
 </template>
 
 <script setup lang="ts">
-import { ref } from 'vue'
 const title = ref('Hello')
 </script>
 
